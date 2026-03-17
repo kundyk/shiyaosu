@@ -1,0 +1,8 @@
+{
+  "name": "白石洲智慧社区（3.13）",
+  "description": "白石洲智慧社区移动端管理工具，提供人、房、法等10要素查询交互、摄像头查看、事件上图等功能。",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
